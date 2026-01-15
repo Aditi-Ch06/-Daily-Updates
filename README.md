@@ -26,3 +26,9 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 -revised 4sum
 
 -saw a design system(ant design on figma community)
+
+**15th Jan26**
+
+-completed day 5 of 21 days yoga bootcamp
+
+-
