@@ -23,12 +23,14 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - completed day 4 of 21 days yoga bootcamp
 
-- revised 4sum
+- revised array problem (4sum)
 
 - saw a design system(ant design on figma community)
+
+- read chapter 3 of book (The Ultimate Gift)
 
 **15th Jan26**
 
 - completed day 5 of 21 days yoga bootcamp
 
--
+- revised array problems (search a 2d matrix, next permutations, )
