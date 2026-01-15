@@ -33,4 +33,4 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - completed day 5 of 21 days yoga bootcamp
 
-- revised array problems (search a 2d matrix, next permutations, )
+- revised array problems (search a 2d matrix, next permutations, merge overlapping intervals, )
