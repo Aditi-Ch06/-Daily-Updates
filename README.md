@@ -18,3 +18,11 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 -revised 2 array problems (3sum(2 pointer) & sort arrays of 0s, 1s, 2s(Dutch National Flag Algo))
 
 -lil project work
+
+**14th Jan26**
+
+-completed day 4 of 21 days yoga bootcamp
+
+-revised 4sum
+
+-saw a design system(ant design on figma community)
