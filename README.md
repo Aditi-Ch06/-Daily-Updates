@@ -33,4 +33,8 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - completed day 5 of 21 days yoga bootcamp
 
-- revised array problems (search a 2d matrix, next permutations, merge overlapping intervals, )
+- revised array problems (search a 2d matrix, next permutations, merge overlapping intervals, longest substring without repeating characters)
+
+- started dp from striver(on L1)
+
+- 
