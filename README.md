@@ -37,4 +37,18 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - started dp from striver(on L1)
 
+- started chapter 4 of book (The Ultimate Gift)
+
+**16th Jan26**
+
+- finished chapter 4 of book (The Ultimate Gift)
+
+- saw lil for project(CC)
+
+- others: winded up practicals, watched movie, played badminton
+
+**17th Jan26**
+
+- completed day 6 of 21 days yoga bootcamp
+
 - 
