@@ -61,4 +61,14 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - completed day 7 of 21 days yoga bootcamp
 
+- did array problem (set matrix zeroes@LeetCode)
+
+- revised recursion (Combination Sum@LeetCode)
+
+- CC
+
 - 
+
+**19th Jan26**
+
+-
