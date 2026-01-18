@@ -51,4 +51,12 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - completed day 6 of 21 days yoga bootcamp
 
-- 
+- revised L6 of Recursion
+
+- did more yoga and walking
+
+- watched movie
+
+**18th Jan26**
+
+- completed day 7 of 21 days yoga bootcamp
