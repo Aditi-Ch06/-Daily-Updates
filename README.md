@@ -63,7 +63,7 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - did array problem (set matrix zeroes@LeetCode)
 
-- revised recursion (Combination Sum@LeetCode)
+- revised recursion (Combination Sum I @LeetCode)
 
 - CC
 
@@ -71,6 +71,10 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 **19th Jan26**
 
-- Made basic landing page of CC
+- did array & graph problem (word search @ Leetcode)
 
-- 
+- revised recursion (Combination Sum II @LeetCode)
+
+- Made basic landing page of CC ~~
+  
+- finished chapter _ of book (The Ultimate Gift)
