@@ -67,8 +67,10 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - CC
 
-- 
+- finished chapter 5 of book (The Ultimate Gift)
 
 **19th Jan26**
 
--
+- Made basic landing page of CC
+
+- 
