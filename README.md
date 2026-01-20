@@ -77,4 +77,20 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - Made basic landing page of CC ~~
   
+- finished chapter 6 of book (The Ultimate Gift)
+
+**20th Jan26**
+
+- read newspaper
+
+- worked on more styling of landing page of CC
+
+- revised array problem (product of array except self @ leetcode)
+
+- revised recursion problem (subsets sum) (all recursion revision done for DP)
+
 - finished chapter _ of book (The Ultimate Gift)
+
+**21th Jan26**
+
+-
