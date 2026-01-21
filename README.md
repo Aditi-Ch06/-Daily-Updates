@@ -95,6 +95,6 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - read newspaper
 
-- complted L_ of DP from striver
+- complted L1, L_ of DP from striver
 
 - 
