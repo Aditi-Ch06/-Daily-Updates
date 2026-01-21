@@ -83,14 +83,18 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - read newspaper
 
-- worked on more styling of landing page of CC
+- worked on more styling of landing page of CC (micro animations)
 
 - revised array problem (product of array except self @ leetcode)
 
 - revised recursion problem (subsets sum) (all recursion revision done for DP)
 
-- finished chapter _ of book (The Ultimate Gift)
+- finished chapter 7 of book (The Ultimate Gift)
 
 **21th Jan26**
 
--
+- read newspaper
+
+- complted L_ of DP from striver
+
+- 
