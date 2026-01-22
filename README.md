@@ -95,6 +95,18 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - read newspaper
 
-- complted L1, L2, L_ of DP from striver
+- complted L1, L2, L3 of DP from striver
 
 - CC
+
+- finished chapter 8 of book (The Ultimate Gift)
+
+**22th Jan26**
+
+- completed L4 of DP from striver
+
+- 
+
+**22th Jan26**
+
+- 
