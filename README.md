@@ -105,8 +105,26 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - completed L4 of DP from striver
 
-- 
+- finished chapter 9 of book (The Ultimate Gift)
 
-**22th Jan26**
+- watched content
 
-- 
+**23th Jan26**
+
+- watched content
+
+- completed L5 & L6 of DP from striver
+
+- __ CC
+
+- finished chapter _ of book (The Ultimate Gift)
+
+**24th Jan26**
+
+- completed day _ of 21 days yoga bootcamp
+
+- completed L_ of DP from striver
+
+- __ CC
+
+- finished chapter _ of book (The Ultimate Gift)
