@@ -115,11 +115,21 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - completed L5 & L6 of DP from striver
 
+- Further pages of CC
+
+- finished chapter 10 of book (The Ultimate Gift)
+
+**24th Jan26**
+
+- completed day 8 of 21 days yoga bootcamp
+
+- completed L7, L8, L_ of DP from striver
+
 - __ CC
 
 - finished chapter _ of book (The Ultimate Gift)
 
-**24th Jan26**
+**25th Jan26**
 
 - completed day _ of 21 days yoga bootcamp
 
