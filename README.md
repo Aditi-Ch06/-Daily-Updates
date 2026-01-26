@@ -123,18 +123,16 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - completed day 8 of 21 days yoga bootcamp
 
-- completed L7, L8, L_ of DP from striver
+- completed L7, L8 of DP from striver
 
-- __ CC
-
-- finished chapter _ of book (The Ultimate Gift)
-
+- watched gilmore girls
+  
 **25th Jan26**
 
-- completed day _ of 21 days yoga bootcamp
+- completed L9 of DP from striver
 
-- completed L_ of DP from striver
+**26th Jan26** (Last 7 days left for holidays!!)
 
-- __ CC
+- completed L10 of DP from striver
 
-- finished chapter _ of book (The Ultimate Gift)
+- 
