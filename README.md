@@ -131,12 +131,16 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - completed L9 of DP from striver
 
+- watched gilmore girls
+    
 **26th Jan26** (Last 7 days left for holidays!!)
 
 - completed L10 of DP from striver
+
+- watched gilmore girls
 
 **27th Jan26**
 
 - completed L11 of DP from striver
 
-- 
+- watched gilmore girls (finished S1)
