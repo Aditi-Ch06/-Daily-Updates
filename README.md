@@ -91,7 +91,7 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - finished chapter 7 of book (The Ultimate Gift)
 
-**21th Jan26**
+**21st Jan26**
 
 - read newspaper
 
@@ -101,7 +101,7 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - finished chapter 8 of book (The Ultimate Gift)
 
-**22th Jan26**
+**22nd Jan26**
 
 - completed L4 of DP from striver
 
@@ -109,7 +109,7 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 - watched content
 
-**23th Jan26**
+**23rd Jan26**
 
 - watched content
 
@@ -144,3 +144,17 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 - completed L11 of DP from striver
 
 - watched gilmore girls (finished S1)
+
+- finished chapter 11, 12, 13, 14 of book (The Ultimate Gift)
+
+**28th Jan26**
+
+- finished chapter _ of book (The Ultimate Gift)
+
+**29th Jan26**
+
+**30th Jan26**
+
+**31th Jan26**
+
+**01 Feb26**
