@@ -149,6 +149,8 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 **28th Jan26**
 
+- completed L12, L13, L1_ of DP from striver
+
 - finished chapter _ of book (The Ultimate Gift)
 
 **29th Jan26**
