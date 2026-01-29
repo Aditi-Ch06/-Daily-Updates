@@ -155,11 +155,14 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 **29th Jan26**
 
-- completed L20,21,22,23,24 of DP from striver
+- completed L20,21,22,23,24,25 of DP from striver
 
-- 
+- gilmore girls s2
+  
 **30th Jan26**
 
+- completed L2_ of DP from striver
+  
 **31th Jan26**
 
 **01 Feb26**
