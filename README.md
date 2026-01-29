@@ -155,6 +155,9 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 
 **29th Jan26**
 
+- completed L20 of DP from striver
+
+- 
 **30th Jan26**
 
 **31th Jan26**
