@@ -161,8 +161,9 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
   
 **30th Jan26**
 
-- completed L2_ of DP from striver
+- completed L26,27,28 of DP from striver
   
 **31th Jan26**
 
+- completed L2_ of DP from striver
 **01 Feb26**
