@@ -169,4 +169,4 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
   
 **01 Feb26**
 
-Planning
+Planning, watched mary kom, planning
