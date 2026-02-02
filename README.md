@@ -170,3 +170,12 @@ A repository I am making for maintining consistency in my work/tasks, so I am go
 **01 Feb26**
 
 Planning, watched mary kom, planning
+
+**02 Feb26**
+
+- completed L36 of DP from striver
+
+- resume
+  
+**03 Feb26**
+
