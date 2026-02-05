@@ -179,7 +179,7 @@ Planning, watched mary kom, planning
   
 **03 Feb26**
 
--resume 
+- resume 
 
 - completed L37, 38 of DP from striver
 **04 Feb26**
