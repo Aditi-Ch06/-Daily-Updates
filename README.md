@@ -182,6 +182,7 @@ Planning, watched mary kom, planning
 - resume 
 
 - completed L37, 38 of DP from striver
+
 **04 Feb26**
 
 - resume complete and applied to DDN(On-campus)
