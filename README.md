@@ -179,3 +179,15 @@ Planning, watched mary kom, planning
   
 **03 Feb26**
 
+-resume 
+
+- completed L37, 38 of DP from striver
+**04 Feb26**
+
+- resume complete and applied to DDN(On-campus)
+
+- L39 of DP from striver(to be continued)
+
+**05 Feb26**
+
+- did daily leetcode problem
