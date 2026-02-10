@@ -192,3 +192,17 @@ Planning, watched mary kom, planning
 **05 Feb26**
 
 - did daily leetcode problem
+
+**06 Feb26**
+
+**07 Feb26**
+
+**08 Feb26**
+
+**09 Feb26**
+
+- attending 3rd day of infosys AI intern
+
+**10 Feb26**
+
+- applied to some internships
