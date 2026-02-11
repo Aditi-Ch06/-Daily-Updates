@@ -211,4 +211,8 @@ Planning, watched mary kom, planning
 
 - completed L41 of DP from striver
 
+- read newspaper
+
+- looked for some more internships
+  
 **12 Feb26**
