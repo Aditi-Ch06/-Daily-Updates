@@ -206,3 +206,9 @@ Planning, watched mary kom, planning
 **10 Feb26**
 
 - applied to some internships
+
+**11 Feb26**
+
+- completed L41 of DP from striver
+
+**12 Feb26**
