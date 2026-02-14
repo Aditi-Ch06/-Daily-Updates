@@ -216,3 +216,15 @@ Planning, watched mary kom, planning
 - looked for some more internships
   
 **12 Feb26**
+
+- completed L42,43,44 of DP from striver
+
+- applied to some internships
+
+**13 Feb26**
+
+- completed L45 of DP from striver
+
+**14 Feb26**
+
+- completed L46,47,48 of DP from striver
