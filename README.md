@@ -228,3 +228,11 @@ Planning, watched mary kom, planning
 **14 Feb26**
 
 - completed L46,47,48 of DP from striver
+
+**15 Feb26**
+
+- completed L49, 50 of DP from striver
+
+**16 Feb26**
+
+- Attended AI Impact Summit @ Bharat Mandapam
